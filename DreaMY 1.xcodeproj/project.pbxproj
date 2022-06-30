@@ -1,0 +1,355 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BC3CDF292577A0C40084AD12 /* DreaMY_1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC3CDF282577A0C40084AD12 /* DreaMY_1App.swift */; };
+		BC3CDF2D2577A0C40084AD12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC3CDF2C2577A0C40084AD12 /* Assets.xcassets */; };
+		BC3CDF302577A0C40084AD12 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC3CDF2F2577A0C40084AD12 /* Preview Assets.xcassets */; };
+		BC3CDF392577A1C10084AD12 /* InfoDream.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC3CDF382577A1C10084AD12 /* InfoDream.swift */; };
+		BC3CDF3D2577A76C0084AD12 /* AddSogno.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC3CDF3C2577A76C0084AD12 /* AddSogno.swift */; };
+		BC3CDF472577E65B0084AD12 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC3CDF462577E65B0084AD12 /* MenuView.swift */; };
+		BC3D708D2579001E00E18795 /* ImageClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC3D708C2579001E00E18795 /* ImageClass.swift */; };
+		BCDC0A542577F1EB0047612C /* DiaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCDC0A532577F1EB0047612C /* DiaryView.swift */; };
+		BCDC0A572577F5FC0047612C /* AudioClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCDC0A562577F5FC0047612C /* AudioClass.swift */; };
+		BCDC0A5A2578082D0047612C /* GraphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCDC0A592578082D0047612C /* GraphView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		BC3CDF252577A0C40084AD12 /* DreaMY 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DreaMY 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC3CDF282577A0C40084AD12 /* DreaMY_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DreaMY_1App.swift; sourceTree = "<group>"; };
+		BC3CDF2C2577A0C40084AD12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BC3CDF2F2577A0C40084AD12 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BC3CDF312577A0C40084AD12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC3CDF382577A1C10084AD12 /* InfoDream.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoDream.swift; sourceTree = "<group>"; };
+		BC3CDF3C2577A76C0084AD12 /* AddSogno.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddSogno.swift; sourceTree = "<group>"; };
+		BC3CDF462577E65B0084AD12 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		BC3D708C2579001E00E18795 /* ImageClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageClass.swift; sourceTree = "<group>"; };
+		BCDC0A532577F1EB0047612C /* DiaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiaryView.swift; sourceTree = "<group>"; };
+		BCDC0A562577F5FC0047612C /* AudioClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioClass.swift; sourceTree = "<group>"; };
+		BCDC0A592578082D0047612C /* GraphView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BC3CDF222577A0C40084AD12 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BC3CDF1C2577A0C30084AD12 = {
+			isa = PBXGroup;
+			children = (
+				BC3CDF272577A0C40084AD12 /* DreaMY 1 */,
+				BC3CDF262577A0C40084AD12 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BC3CDF262577A0C40084AD12 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BC3CDF252577A0C40084AD12 /* DreaMY 1.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BC3CDF272577A0C40084AD12 /* DreaMY 1 */ = {
+			isa = PBXGroup;
+			children = (
+				BC3CDF282577A0C40084AD12 /* DreaMY_1App.swift */,
+				BC3CDF2C2577A0C40084AD12 /* Assets.xcassets */,
+				BC3CDF312577A0C40084AD12 /* Info.plist */,
+				BC3CDF2E2577A0C40084AD12 /* Preview Content */,
+				BC3CDF382577A1C10084AD12 /* InfoDream.swift */,
+				BC3CDF3C2577A76C0084AD12 /* AddSogno.swift */,
+				BC3CDF462577E65B0084AD12 /* MenuView.swift */,
+				BCDC0A532577F1EB0047612C /* DiaryView.swift */,
+				BCDC0A562577F5FC0047612C /* AudioClass.swift */,
+				BCDC0A592578082D0047612C /* GraphView.swift */,
+				BC3D708C2579001E00E18795 /* ImageClass.swift */,
+			);
+			path = "DreaMY 1";
+			sourceTree = "<group>";
+		};
+		BC3CDF2E2577A0C40084AD12 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				BC3CDF2F2577A0C40084AD12 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BC3CDF242577A0C40084AD12 /* DreaMY 1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BC3CDF342577A0C40084AD12 /* Build configuration list for PBXNativeTarget "DreaMY 1" */;
+			buildPhases = (
+				BC3CDF212577A0C40084AD12 /* Sources */,
+				BC3CDF222577A0C40084AD12 /* Frameworks */,
+				BC3CDF232577A0C40084AD12 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "DreaMY 1";
+			productName = "DreaMY 1";
+			productReference = BC3CDF252577A0C40084AD12 /* DreaMY 1.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BC3CDF1D2577A0C30084AD12 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1220;
+				LastUpgradeCheck = 1220;
+				TargetAttributes = {
+					BC3CDF242577A0C40084AD12 = {
+						CreatedOnToolsVersion = 12.2;
+					};
+				};
+			};
+			buildConfigurationList = BC3CDF202577A0C30084AD12 /* Build configuration list for PBXProject "DreaMY 1" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BC3CDF1C2577A0C30084AD12;
+			productRefGroup = BC3CDF262577A0C40084AD12 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BC3CDF242577A0C40084AD12 /* DreaMY 1 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BC3CDF232577A0C40084AD12 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC3CDF302577A0C40084AD12 /* Preview Assets.xcassets in Resources */,
+				BC3CDF2D2577A0C40084AD12 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BC3CDF212577A0C40084AD12 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCDC0A542577F1EB0047612C /* DiaryView.swift in Sources */,
+				BC3CDF292577A0C40084AD12 /* DreaMY_1App.swift in Sources */,
+				BCDC0A5A2578082D0047612C /* GraphView.swift in Sources */,
+				BC3CDF472577E65B0084AD12 /* MenuView.swift in Sources */,
+				BC3D708D2579001E00E18795 /* ImageClass.swift in Sources */,
+				BC3CDF3D2577A76C0084AD12 /* AddSogno.swift in Sources */,
+				BC3CDF392577A1C10084AD12 /* InfoDream.swift in Sources */,
+				BCDC0A572577F5FC0047612C /* AudioClass.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		BC3CDF322577A0C40084AD12 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		BC3CDF332577A0C40084AD12 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BC3CDF352577A0C40084AD12 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"DreaMY 1/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "DreaMY 1/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "lol.DreaMY-1";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		BC3CDF362577A0C40084AD12 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"DreaMY 1/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "DreaMY 1/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "lol.DreaMY-1";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BC3CDF202577A0C30084AD12 /* Build configuration list for PBXProject "DreaMY 1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC3CDF322577A0C40084AD12 /* Debug */,
+				BC3CDF332577A0C40084AD12 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BC3CDF342577A0C40084AD12 /* Build configuration list for PBXNativeTarget "DreaMY 1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BC3CDF352577A0C40084AD12 /* Debug */,
+				BC3CDF362577A0C40084AD12 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BC3CDF1D2577A0C30084AD12 /* Project object */;
+}
